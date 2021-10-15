@@ -19,3 +19,10 @@ button{
 .left-align{
 	text-align: left;
 }
+@media screen and (max-width:767px){
+	.App {
+		width:100%;
+		margin: 0 auto;
+		text-align: left;
+	}
+}
